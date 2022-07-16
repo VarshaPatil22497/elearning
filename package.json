@@ -1,0 +1,22 @@
+{
+  "name": "elearning",
+  "version": "1.0.0",
+  "description": "This repository consists of node js application for transflower  students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VarshaPatil22497/elearning.git"
+  },
+  "author": "VarshaPatil22497",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VarshaPatil22497/elearning/issues"
+  },
+  "homepage": "https://github.com/VarshaPatil22497/elearning#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
